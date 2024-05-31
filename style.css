@@ -76,3 +76,13 @@ li {
 .bottom-container {
     padding: 50px 0 20px;
 }
+
+.demo-img {
+    height: 250px;
+    width: 400px;
+}
+
+#job {
+    font-size: 2em;
+    color: #003087;
+}
