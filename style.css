@@ -1,0 +1,78 @@
+.profile-photo {
+    height: 80px;
+    border-radius: 50%;
+}
+
+.menu {
+    align-items: center;
+}
+
+.quote {
+    font-size: 40px;
+    color: white;
+}
+
+.heroes-bg {
+    background-image: url(./images/heroes-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#marc-rich {
+    color: white;
+}
+
+h2 {
+    color: #0070e0;
+    text-align: center;
+    font-size: 50px;
+}
+
+.about-img {
+    height:200px;
+    border-radius: 50%;
+    border: 1px #0070e0 solid ;
+}
+
+hr {
+    border: dotted #0070e0 6px ;
+    border-bottom: none;
+    width: 4%;
+    margin: 60px;
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+}
+
+h3 {
+    color: 
+    #003087;
+}
+
+li {
+    margin: 10px;
+}
+
+#education {
+    list-style-type: none;
+}
+
+#skills {
+    justify-content: center;
+    align-items: center;
+}
+
+#footer {
+    background-color: #0070e0;
+}
+
+.social {
+    height: 30px;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+}
