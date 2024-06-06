@@ -64,6 +64,11 @@ li {
     text-align: center;
 }
 
+.no_bullet {
+    list-style-type: none;
+    text-align: center;
+}
+
 #footer {
     background-color: #0070e0;
 }
